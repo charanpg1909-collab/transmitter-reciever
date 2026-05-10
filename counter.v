@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module counter(input clk,res,
 output reg [6:0] count );
 always@(posedge clk or posedge res)
