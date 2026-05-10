@@ -37,7 +37,7 @@ Output : 01001101
 ---
 
 ## 2. Counter Module
-Controls the transmission count from 0 to 99.
+Controls the transmission count from 0 to 100.
 
 Used for:
 - Transmission sequencing
@@ -105,7 +105,7 @@ Simulates:
 ## Transmission 0–49
 - Data transmitted normally
 
-## Transmission 50–99
+## Transmission 50–100
 - Data bits reversed before transmission
 
 ## Receiver Operation
